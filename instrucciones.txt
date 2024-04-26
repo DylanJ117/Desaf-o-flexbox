@@ -1,0 +1,30 @@
+1. Cambia el color de fondo del encabezado a azul claro.
+2. Cambia el color del texto del encabezado a blanco.
+3. Aumenta el tamaño de la fuente del encabezado a 36px.
+4. Alinea el texto del encabezado al centro.
+5. Agrega un borde sólido de 2px alrededor del encabezado con un color gris.
+6. Cambia el color de fondo de las secciones a un tono de gris claro.
+7. Alinea el texto de las secciones al centro.
+8. Agrega un margen interior de 20px a las secciones.
+9. Cambia el tipo de fuente del texto en las secciones a Arial, sans-serif.
+10. Aumenta el tamaño de la fuente del texto en las secciones a 18px.
+11. Cambia el color del texto de las secciones a negro.
+12. Agrega un borde sólido de 1px alrededor de las secciones con un color gris más oscuro.
+13. Cambia el color de fondo del pie de página a negro.
+14. Cambia el color del texto del pie de página a blanco.
+15. Alinea el texto del pie de página al centro.
+16. Agrega un margen superior e inferior de 20px al pie de página.
+17. Cambia el tipo de fuente del texto en el pie de página a Verdana, sans-serif.
+18. Aumenta el tamaño de la fuente del texto en el pie de página a 14px.
+19. Crea una cuadrícula de dos columnas para las secciones utilizando Flexbox.
+20. Alinea las secciones en la cuadrícula al centro horizontalmente.
+21. Centra verticalmente el contenido de las secciones en la cuadrícula.
+22. Cambia el orden de visualización de las secciones en la cuadrícula, de arriba a abajo, a abajo a arriba.
+23. Agrega un espacio entre las secciones en la cuadrícula de 20px.
+24. Haz que las secciones ocupen todo el ancho disponible en la cuadrícula.
+25. Ajusta la alineación del texto en el pie de página a la derecha.
+26. Cambia la dirección de la cuadrícula de las secciones a columnas.
+27. Alinea las secciones en la cuadrícula al centro verticalmente.
+28. Cambia el orden de visualización de las secciones en la cuadrícula, de izquierda a derecha, a derecha a izquierda.
+29. Agrega un espacio entre las secciones en la cuadrícula de 10px.
+30. Haz que las secciones ocupen el 50% del ancho disponible en la cuadrícula.
